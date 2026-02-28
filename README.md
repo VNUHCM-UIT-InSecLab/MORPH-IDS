@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">MORPH-IDS</h1>
   <p align="center">
-    <strong>Drift-Aware Moving Target Defense for Intrusion Detection</strong>
+    <strong>MORPH-IDS: A Drift-Aware Moving Target Defense Framework for Robust Intrusion Detection under Adversarial Drift Environments</strong>
   </p>
   <p align="center">
     <a href="#installation">Installation</a> •
@@ -45,7 +45,7 @@ pip install imbalanced-learn
 1. Download dataset from CIC:
    - [CIC-IDS2017](https://www.unb.ca/cic/datasets/ids-2017.html) — Scenarios 1–3
    - [CIC-IDS2019](https://www.unb.ca/cic/datasets/ddos-2019.html) — Scenario 1
-   - [CIC-APT-IIoT-2024](https://www.unb.ca/cic/datasets/apt-iiot-2024.html) — Scenarios 1 & 4
+   - [CIC-APT-IIoT-2024](https://www.unb.ca/cic/datasets/iiot-dataset-2024.html) — Scenarios 1 & 4
 2. Upload dataset to [Kaggle Datasets](https://www.kaggle.com/datasets)
 3. Attach dataset to your Kaggle notebook
 
